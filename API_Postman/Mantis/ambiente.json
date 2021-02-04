@@ -1,0 +1,164 @@
+{
+	"id": "0b12c085-cec3-4547-990e-2c244e57a433",
+	"name": "ambiente_mantis",
+	"values": [
+		{
+			"key": "url",
+			"value": "localhost:8989",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "EftqTockbZQyTfbfb_zcChvs2an5frCc",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "user_id_copy",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "project_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "issue_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "issue_id_minimal",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "real_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "file_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "issue_note_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "relationship_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "user_email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "user_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "user_real_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "subProject_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "project_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_id_unasigned",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_name_unsasigned",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "subproject_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_id_reported",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_name_reported",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "page_size",
+			"value": "10",
+			"enabled": true
+		},
+		{
+			"key": "page",
+			"value": "1",
+			"enabled": true
+		},
+		{
+			"key": "filter_id_monitored",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_name_monitored",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "filter_name_unasigned",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "code",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-01-13T14:07:33.756Z",
+	"_postman_exported_using": "Postman/7.36.1"
+}
